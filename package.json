@@ -1,0 +1,18 @@
+{
+  "name": "wfo-tool",
+  "version": "1.0.0",
+  "description": "A tool for assisting with the troubleshooting of ININ-related issues.",
+  "main": "WFOtool.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node WFOtool.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "6.3.1",
+    "npm": "3.10.3"
+  },
+  "author": "Steve Montana",
+  "license": "ISC"
+}
